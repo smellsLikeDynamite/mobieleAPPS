@@ -1,0 +1,12 @@
+Project mobiele Apps.
+Main page met verwelkoming , weer van die dag en hoeveel kinderen aanwezig.
+
+Lijst met alle kinderen die van kleur kunnen veranderen, groen = aanwezig , rood = niet aanwezig.
+ => add. Kinderen toevoegen , naam ,voornaam , leeftijd, groep.
+
+Notitie pagina. Schrijven van notities, dingen die gebeurt zijn, voor aan te halen tijdens groepsgesprek , bv materiaal is op,..
+
+Extra
+Lijst met alle animatore + GSM numbers.
+
+Spelletje zoek de schat. Verstop iets op een plaats en vraag GPS positie in. Andere kunnen dan deze ingeven en op zoek gaan naar de schat. Enkel de richting waar ge uit moet is gegeven. 
