@@ -1,5 +1,4 @@
 Project mobiele Apps.
-Main page met verwelkoming , weer van die dag en hoeveel kinderen aanwezig.
 
 Lijst met alle kinderen die van kleur kunnen veranderen, groen = aanwezig , rood = niet aanwezig.
  => add. Kinderen toevoegen , naam ,voornaam , leeftijd, groep.
